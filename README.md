@@ -1,6 +1,7 @@
 # 打造一個 Windows+Ubuntu 的雙系統 投影片
 ## 原始作者<br />Original author
-宋岡哲
+宋岡哲  
+原始作品網站：[https://dl.dropboxusercontent.com/u/70170658/ubuntu-dual-boot](https://dl.dropboxusercontent.com/u/70170658/ubuntu-dual-boot)
 
 ## 授權條款<br />License
 創用 CC-BY-SA 4.0 授權條款
