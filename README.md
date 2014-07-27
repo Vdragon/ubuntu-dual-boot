@@ -59,6 +59,16 @@
 * 如何設定預設開機的作業系統
 * 重灌 Windows 後，如何開機到 Ubuntu
 
+<img src='https://dl.dropboxusercontent.com/u/70170658/ubuntu-dual-boot/8-ppas-all.png' alt='「軟體來源」視窗→「其它軟體」頁籤，所有第 5 章所加入的 APT 來源列' />
+
+在第5章裡面，你總共會新增4個套件庫來源。
+
+<img src='https://dl.dropboxusercontent.com/u/70170658/ubuntu-dual-boot/8-upgrade.png' alt='「更新管理員」視窗，提示訊息說有新 Ubuntu 發行版 '14.04' 可供升級' />
+
+如果你要從 Ubuntu 12.04 升級到 14.04 ，可以從「更新管理員」裡面按「升級」來完成。這個升級按鈕會在 7 月 24 日， Ubuntu 14.04.1 發行時出現。
+
+如果要透過命令列升級，請用 "sudo do-release-upgrade" 。
+
 ## Source
 
 * 原始螢幕擷圖
