@@ -1,0 +1,5 @@
+# LibreOffice 鎖定檔案
+.~lock.*
+
+# 不忽略 Git 忽略規則檔自己
+!.gitignore
