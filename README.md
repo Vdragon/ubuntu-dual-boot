@@ -1,6 +1,6 @@
 # 打造一個 Windows+Ubuntu 的雙系統 投影片
 ## 原始作者<br />Original author
-宋岡哲(@Explorer09)  
+宋岡哲(@Explorer09)
 原始作品網站：[https://dl.dropboxusercontent.com/u/70170658/ubuntu-dual-boot](https://dl.dropboxusercontent.com/u/70170658/ubuntu-dual-boot)
 
 ## 授權條款<br />License
@@ -59,11 +59,11 @@
 * 如何設定預設開機的作業系統
 * 重灌 Windows 後，如何開機到 Ubuntu
 
-<img src='https://dl.dropboxusercontent.com/u/70170658/ubuntu-dual-boot/8-ppas-all.png' alt='「軟體來源」視窗→「其它軟體」頁籤，所有第 5 章所加入的 APT 來源列' />
+![「軟體來源」視窗→「其它軟體」頁籤，所有第 5 章所加入的 APT 來源列](./額外螢幕擷圖/8-ppas-all.png)
 
 在第5章裡面，你總共會新增4個套件庫來源。
 
-<img src='https://dl.dropboxusercontent.com/u/70170658/ubuntu-dual-boot/8-upgrade.png' alt='「更新管理員」視窗，提示訊息說有新 Ubuntu 發行版 '14.04' 可供升級' />
+![「更新管理員」視窗，提示訊息說有新 Ubuntu 發行版 '14.04' 可供升級](./額外螢幕擷圖/8-upgrade.png)
 
 如果你要從 Ubuntu 12.04 升級到 14.04 ，可以從「更新管理員」裡面按「升級」來完成。這個升級按鈕會在 7 月 24 日， Ubuntu 14.04.1 發行時出現。
 
