@@ -64,6 +64,6 @@
 * 原始螢幕擷圖
 * 投影片樣板 (ODP)
 
-## 如何貢獻本專案<br />How to contribute to this project
+## 如何對本專案做出貢獻<br />How to contribute to this project
 * 發現問題的話請到[本專案的問題追蹤系統(issue tracker)](https://github.com/Vdragon/ubuntu-dual-boot/issues)建檔回報
 * 要貢獻內容的話歡迎克隆(clone)本專案的版本倉庫至您的電腦中，建立新的 Git 分支(branch)完成編輯後提交(commit)為一個新版本推送到您的 GitHub 版本倉庫再跟我們發出拉取請求(pull request)
